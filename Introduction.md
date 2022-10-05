@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)]
 <h1 align="center">Hi 👋, I'm Ashish Kumar Sahoo</h1>
 <h3 align="center">A student in BMSIT College for Information Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish kumar sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kumar sahoo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-sahoo-260643229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kumar sahoo" height="30" width="40" /></a>
 <a href="https://fb.com/ashish4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish4k" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish_kr_4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_kr_4k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashish #4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashish #4k" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3Afh_9HnrccLCsfO9HSJfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashish #4k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/darksparks474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darksparks474" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashish4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish4k" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashish4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashish4k" height="30" width="40" /></a>
